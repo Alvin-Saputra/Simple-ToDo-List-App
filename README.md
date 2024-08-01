@@ -1,7 +1,7 @@
 # ToDo List App
 
 ## Introduction
-  See More Of My Project: https://drive.google.com/drive/u/0/folders/1eK-Qjee9N_1Kk6lJ3-XXigN1crcgru_G
+  See More Of My Project (Portfolio): https://drive.google.com/drive/u/0/folders/1eK-Qjee9N_1Kk6lJ3-XXigN1crcgru_G
   
   ToDo list app is a simple to do app made with react, tailwind, and firebase.
   
